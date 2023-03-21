@@ -12,7 +12,6 @@ namespace LatihanClassDanObjek
         public string DriverName { get; set; }
         public bool OnDuty { get; set; }
         public int NumPassenger { get; set; }
-        public string Status { get; set; }
 
         // method
         public void TaxiInfo()
